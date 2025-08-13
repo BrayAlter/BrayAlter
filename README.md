@@ -55,7 +55,7 @@ With nothing but **YouTube tutorials** and the help of **AI tools**, I’ve been
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrayAlter&theme=redical&hide_border=true&area=true" />
 </p>
 
----
+
 
 ## Support & Connect ☕
 
