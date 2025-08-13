@@ -61,8 +61,6 @@ With nothing but **YouTube tutorials** and the help of **AI tools**, I’ve been
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M21JMVL8)
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=footer" />
 </p>
