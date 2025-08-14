@@ -10,7 +10,7 @@
 ---
 
 ## My Story 📖
-I have **no formal coding background** but in **2023**, I made a decision to learn more about coding.  
+I have **no formal coding background** but in **2022**, I made a decision to learn more about coding.  
 Inspired by my friend [@exzork](https://github.com/exzork), who could turn any of my ideas into working code,  
 I decided to **teach myself programming from scratch**.
 
