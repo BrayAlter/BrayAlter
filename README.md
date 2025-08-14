@@ -16,7 +16,7 @@ I decided to **teach myself programming from scratch**.
 
 With nothing but **YouTube tutorials** and the help of **AI tools**, I’ve been building projects that automate games, collect data, and solve problems I face in real life.
 
-> You don’t need to start as an expert you just need to start.
+> *You don’t need to start as an expert you just need to **start**.* - Zig Zigler
 
 
 
